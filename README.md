@@ -1,3 +1,3 @@
 # slitherking
-play slitherking.IO: [Click here](https://slitherking.glitch.me)
+play slitherking.IO: [Click here to play](https://slitherking.glitch.me)
 
